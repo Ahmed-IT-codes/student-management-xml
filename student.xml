@@ -1,0 +1,47 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student>
+        <id>101</id>
+        <name>Hamza Malik</name>
+        <age>21</age>
+        <department>Business Administration</department>
+        <email>hamza@example.com</email>
+    </student>
+
+    <student>
+        <id>102</id>
+        <name>Hira Shah</name>
+        <age>20</age>
+        <department>Computer Science</department>
+        <email>hira@example.com</email>
+    </student>
+
+    <student>
+        <id>103</id>
+        <name>Bilal Hassan</name>
+        <age>22</age>
+        <department>Software Engineering</department>
+        <email>bilal@example.com</email>
+    </student>
+
+    <student>
+        <id>104</id>
+        <name>Fatima Noor</name>
+        <age>19</age>
+        <department>Information Technology</department>
+        <email>fatima@example.com</email>
+    </student>
+
+    <student>
+        <id>105</id>
+        <name>Saad Ahmed</name>
+        <age>23</age>
+        <department>Computer Science</department>
+        <email>saad@example.com</email>
+    </student>
+
+</students>

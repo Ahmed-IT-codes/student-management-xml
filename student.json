@@ -1,0 +1,41 @@
+
+
+{
+    "students": [
+        {
+            "id": 101,
+            "name": "Hamza Malik",
+            "age": 21,
+            "department": "Business Administration",
+            "email": "hamza@example.com"
+        },
+        {
+            "id": 102,
+            "name": "Hira Shah",
+            "age": 20,
+            "department": "Computer Science",
+            "email": "hira@example.com"
+        },
+        {
+            "id": 103,
+            "name": "Bilal Hassan",
+            "age": 22,
+            "department": "Software Engineering",
+            "email": "bilal@example.com"
+        },
+        {
+            "id": 104,
+            "name": "Fatima Noor",
+            "age": 19,
+            "department": "Information Technology",
+            "email": "fatima@example.com"
+        },
+        {
+            "id": 105,
+            "name": "Saad Ahmed",
+            "age": 23,
+            "department": "Computer Science",
+            "email": "saad@example.com"
+        }
+    ]
+}
